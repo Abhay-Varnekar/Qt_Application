@@ -43,7 +43,7 @@ Before starting with the actual build, you’ll need **Meson**, **Ninja**, and *
 
 1. Clone the repository
    ```
-   https://github.com/Abhay-Varnekar/Qt_Application.git
+   git clone https://github.com/Abhay-Varnekar/Qt_Application.git
    cd Qt_Application
    ```
 2. Configure the build:
